@@ -1,0 +1,26 @@
+.home {
+    margin: 0   ;
+    width: 80%;
+    border: solid 2px black;
+    text-align: center;
+    background: url("macc.jpg");
+    max-width: 800px;
+    /* border-radius: 50%; */
+    color: aliceblue;
+    margin-right: 25px;
+    
+}
+h1 {
+    /* border: solid 7px black;
+    border: none;
+    border-bottom: solid 7px black; */
+    display: inline-block;
+    border-bottom: solid 4px black;
+    padding-bottom: 5px;
+    border-bottom-color: white;
+    font-size: 25px;
+}
+img {
+    border-radius: 50%;
+    width: 200px;
+}
